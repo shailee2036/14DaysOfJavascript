@@ -10,9 +10,9 @@
 
 | Status | Project Title | Completion Date | Source Code | Project Link |
 |:-: | :-:           |:-:              | :-:         | :-:          |
-| ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Digital%20Clock) | [Click Here]()  |
-| ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here] ()    |
-| ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here] (https://eclectic-raindrop-7d781e.netlify.app/)   |
+| ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Digital%20Clock) | [Click Here]() |
+| ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here]() |
+| ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://eclectic-raindrop-7d781e.netlify.app/) |
 | ❌ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | Coming Soon |
 | ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
 | ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | Coming Soon    |
