@@ -1,0 +1,127 @@
+/* *{
+    margin: 0;
+    height: 100vh;
+    background:url("https://t3.ftcdn.net/jpg/04/69/22/58/360_F_469225822_FJVxXyvK3aAxFyap1bQJnD8hLg0lkH5.jpg");
+    background-size: cover;
+}
+
+span{
+    background: url("https://cdn3.iconfinder.com/data/icons/mothers-day-20/64/13-mom-heart-balloon-mother-mothers_day-512.png");
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    background-size: cover;
+    pointer-events: none;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    animation: animate 6s linear;
+}
+h1{
+   margin: 0;
+   padding-top: 20px;
+   color: red;
+   font-weight: bolder;
+   text-align: center;
+   text-decoration: underline;
+}
+@keyframes animate {
+    0% {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+      filter: hue-rotate(0);
+    }
+    100% {
+      transform: translate(-50%, -5000%);
+      opacity: 0;
+      filter: hue-rotate(720deg);
+    }
+  } */
+  body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    margin: 0;
+    font-family: "Courier New", Courier, monospace;
+    background: url("https://4kwallpapers.com/images/wallpapers/gradient-background-backdrop-multicolor-colorful-vibrant-3840x2160-6723.png");
+    background-size: cover;
+  }
+  
+  .password-container {
+    background:whitesmoke;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+  }
+  
+  .input-container {
+    border: solid 2px rgb(18, 39, 223);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 24px;
+    letter-spacing: 4px;
+  }
+  
+  .input::placeholder {
+    letter-spacing: 0px;
+  }
+  
+  .fa-copy {
+    cursor: pointer;
+    opacity: 0.3;
+  }
+  
+  .fa-copy:hover {
+    opacity: 0.7;
+  }
+  
+  .btn {
+    background: rgb(231, 9, 9);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: blue;
+  }
+  
+  .btn:active {
+    transform: scale(0.95);
+  }
+  
+  .alert-container {
+    position: fixed;
+    width: 300px;
+    height: 50px;
+    background-color: lightgreen;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    transition: 0.4s;
+  }
+  
+  .active.alert-container {
+    right: -300px;
+  }
