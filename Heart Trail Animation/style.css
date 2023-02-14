@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    height: 100vh;
+    background:url("https://t3.ftcdn.net/jpg/04/69/22/58/360_F_469225822_FJVxXyvK3aAxFyap1bQJnD8hLg0lkH5.jpg");
+    background-size: cover;
+}
+
+span{
+    background: url("https://cdn3.iconfinder.com/data/icons/mothers-day-20/64/13-mom-heart-balloon-mother-mothers_day-512.png");
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    background-size: cover;
+    pointer-events: none;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    animation: animate 6s linear;
+}
+h1{
+   margin: 0;
+   padding-top: 20px;
+   color: red;
+   font-weight: bolder;
+   text-align: center;
+   text-decoration: underline;
+}
+@keyframes animate {
+    0% {
+      transform: translate(-50%, -50%);
+      opacity: 1;
+      filter: hue-rotate(0);
+    }
+    100% {
+      transform: translate(-50%, -5000%);
+      opacity: 0;
+      filter: hue-rotate(720deg);
+    }
+  } 
+  
