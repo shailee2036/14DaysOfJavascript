@@ -13,8 +13,8 @@
 | ✅ | Digital Clock             | 10-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Digital%20Clock) | [Click Here]() |
 | ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here]() |
 | ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://eclectic-raindrop-7d781e.netlify.app/) |
-| ❌ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | Coming Soon |
-| ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
+| ✅ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here]() | 
+| ✅ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Click Here](https://dreamy-cucurucho-688b51.netlify.app/) |
 | ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | Coming Soon    |
 | ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
 | ❌ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | Coming Soon    |
@@ -24,17 +24,3 @@
 | ❌ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/English%20Dictionary) | Coming Soon    |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | Coming Soon    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/Harsh971/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
-
-
-
-## <img src="https://camo.githubusercontent.com/7d747cc08b78d016646aed967d248840d37bb148002f56f7f24bc0f4e56ff540/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333433372f333433373239372e706e67" width="30" /> Connect with Me
-<p>
-
- <a href="https://twitter.com/shailee2036" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="shailee2036" height="40" width="50" /></a>
-  &nbsp;&nbsp;
-  	<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
-  &nbsp;&nbsp;
- <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="40" width="40" /></a>
- 
-
-</p>
