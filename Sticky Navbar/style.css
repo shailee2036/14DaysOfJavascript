@@ -1,0 +1,65 @@
+ body {
+  margin: 0;
+}
+
+.top-container {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINx69r1kWQrjm6eWTs2cgLsn9i45p10BpaQ&usqp=CAU");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.top-container h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+}
+
+.text {
+  margin: 50px 5%;
+  font-family: sans-serif;
+}
+
+.navbar {
+  display: flex;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(35, 34, 34, 0.3);
+  transition: background-color 0.4s;
+}
+
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: rgb(22, 16, 211);
+  font-family: cursive;
+}
+
+.navbar ul li a:hover {
+  color: rgb(235, 228, 228);
+}
+
+.navbar.active {
+  background-color: rgb(219, 19, 139);
+}
+
+.navbar.active ul li a {
+  color: white;
+} 
+#one{
+  height: 30px;
+  width: 70px;
+}
+ 
