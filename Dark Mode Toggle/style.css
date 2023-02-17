@@ -1,0 +1,119 @@
+ body {
+  margin: 0;
+  /* display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  transition: .4s; */
+}
+
+.top-container {
+  background-image: url("https://www.shutterstock.com/image-illustration/raster-abstract-dark-blue-pink-260nw-346904120.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 350px;
+}
+
+.top-container h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+}
+
+.text {
+  margin: 50px 5%;
+  font-family: sans-serif;
+}
+
+.navbar {
+  display: flex;
+  position: fixed;
+  background-color: rgb(64, 22, 231);
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(35, 34, 34, 0.3);
+  transition: background-color 0.4s;
+}
+
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: rgb(243, 243, 248);
+  font-family: cursive;
+}
+
+.navbar ul li a:hover {
+  color: rgb(235, 228, 228);
+}
+
+.navbar.active {
+  background-color: rgb(219, 19, 139);
+}
+
+.navbar.active ul li a {
+  color: white;
+} 
+#one{
+ opacity: 0.1;
+}
+.input {
+  visibility: hidden;
+}
+
+.label {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  background-color: rgb(174, 169, 174);
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.circle {
+  width: 34px;
+  background-color: white;
+  height: 34px;
+  border-radius: 50%;
+  top: 3px;
+  position: absolute;
+  left: 3px;
+  animation: toggleOff 0.4s linear forwards;
+}
+
+.input:checked + .label {
+  background-color: rgb(10, 10, 10);
+}
+
+.input:checked + .label .circle {
+  animation: toggleOn 0.4s linear forwards;
+  background-color: black;
+}
+
+@keyframes toggleOn {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(40px);
+  }
+}
+
+@keyframes toggleOff {
+  0% {
+    transform: translateX(40px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
