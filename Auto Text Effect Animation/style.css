@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300;400&display=swap');
+
+ body {
+  margin: 0;
+   display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-image: url("https://www.shutterstock.com/image-illustration/raster-abstract-dark-blue-pink-260nw-346904120.jpg");
+  background-size: cover;
+
+  
+}
+
+.container {
+ background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 350px;
+}
+
+.container h1 {
+  color: white;
+  font-family: 'Shantell Sans', cursive;
+}
+
