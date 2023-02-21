@@ -21,6 +21,6 @@
 | ✅ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) | |
 | ✅ | Image Slider              | 19-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Image%20Slider) | Coming Soon    |
 | ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | Coming Soon    |
-| ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/English%20Dictionary) | Coming Soon    |
+| ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/English%20Dictionary) | [Click Here](https://superlative-axolotl-92f97c.netlify.app/)  |
 | ❌ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | Coming Soon    |
 | ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
