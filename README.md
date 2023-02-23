@@ -23,4 +23,4 @@
 | ✅ | Step Progress Bar         | 20-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Step%20Progress%20Bar) | [Click Here](https://exquisite-semifreddo-164e3a.netlify.app) |
 | ✅ | English Dictionary        | 21-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/English%20Dictionary) | [Click Here](https://superlative-axolotl-92f97c.netlify.app/)  |
 | ✅ | Random Quote Generator    | 22-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Random%20Quote%20Generator) | [Click Here](https://aesthetic-semolina-8e939b.netlify.app/) |
-| ❌ | Note App                  | 23-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Note%20App) | Coming Soon    |
+| ✅ | Note App | 23-Feb-2023 | [Click Here](https://github.com/shailee2036/14DaysOfJavascript/tree/main/Note%20App) | [Click Here](https://steady-muffin-14ec35.netlify.app/) |
